@@ -2,7 +2,11 @@
 
 ## Overview of the analysis
 
-Explain the purpose of this analysis.
+This analysis attempts to determine if Vine reviewers increase the number of 5 star reviews for products.
+
+The data set used for the analysis reviews of amazon books.
+
+More information can be found about the Vine program [here](https://www.amazon.com/vine/about).
 
 ## Results
 
